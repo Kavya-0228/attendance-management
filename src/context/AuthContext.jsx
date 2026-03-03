@@ -94,7 +94,7 @@ export const AuthProvider = ({ children }) => {
         loading,
         login,
         register,
-        logout,git
+        logout,
         isAuthenticated: !!token,
     };
 
